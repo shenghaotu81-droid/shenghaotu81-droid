@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi, I'm Shenghao Tu 👋
+
+Undergraduate @ HKUST (Guangzhou), working on robotics and AI.
+
+- 🔭 Currently: visual navigation (ROS 2 + LiDAR + Nav2/SLAM) and RoboMaster vision
+- 🌱 Learning: C++, ROS 2, linear algebra, embodied AI
+- 🎯 Focus: Embodied AI / Spatial Intelligence — AI grounded in the physical world
+- 📫 How to reach me: shenghaotu813@gmail.com / stu061@connect.hkust-gz.edu.cn
 
 <!--
+## Hi there 👋
 **shenghaotu81-droid/shenghaotu81-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
